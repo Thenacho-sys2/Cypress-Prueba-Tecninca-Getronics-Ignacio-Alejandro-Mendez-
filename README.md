@@ -1,2 +1,3 @@
-Welcome to my QA Automation Portfolio! Here, you'll find various test automation projects I’ve worked on, demonstrating my expertise in testing web applications using Cypress and other relevant tools. Each project is designed to showcase my ability to write efficient and reliable test scripts, focused on ensuring high-quality software.
-This files intro to "Resultados" Folder. The project objective is detailed in the Word document.
+Aca dejo los resultados de la prueba tecnica hecha enteramente en Cypress para Getronics. 
+Cualquier devolucion por mas minima que sea sera bienvenida.
+Muchas Gracias por la entrevista <3 
